@@ -4,7 +4,7 @@ def to_uppercase(string):
     """
     return string.upper()
 
-def capitalize_first_letters(string):
+def first_letters(string):
     """
     Преобразует первую букву каждого слова в строке в заглавную
     """
